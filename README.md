@@ -1,4 +1,4 @@
 # EV2-PRACTICO
 ### 1º DAM 
-### Programacion 
+### Programación 
 ### Lucia Pasc Busto
